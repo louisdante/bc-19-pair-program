@@ -1,0 +1,37 @@
+{
+  "name": "bc-19-pair-program",
+  "version": "1.0.0",
+  "description": "pair programming",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louisdante/bc-19-pair-program.git"
+  },
+  "author": "louisdante",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/louisdante/bc-19-pair-program/issues"
+  },
+  "homepage": "https://github.com/louisdante/bc-19-pair-program#readme",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "^1.15.2",
+    "connect-flash": "*",
+    "cookie-parser": "*",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "^2.20.8",
+    "firebase": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*",
+    "q": "*"
+  }
+}
